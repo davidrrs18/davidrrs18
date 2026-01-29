@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,dotnet,css,html,js,nodejs,mysql,firebase,git,github,vscode,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,dotnet,css,html,js,react,mysql,firebase,git,github,vscode,ai,ps&perline=12" />
   </a>
 </p>
 <br>
